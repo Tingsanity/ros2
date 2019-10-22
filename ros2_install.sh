@@ -11,3 +11,4 @@ sudo apt install ros-dashing-rmw-opensplice-cpp -y
 sudo apt install ros-dashing-rmw-connext-cpp -y #need to type yes otherwise it stuck
 sudo apt install ros-dashing-ros1-bridge -y
 sudo apt install python3-colcon-common-extensions -y
+sudo apt install ros-dashing-launch* -y
