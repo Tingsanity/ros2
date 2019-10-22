@@ -8,6 +8,6 @@ sudo apt update
 sudo apt install ros-dashing-desktop -y
 sudo apt install python3-argcomplete
 sudo apt install ros-dashing-rmw-opensplice-cpp -y
-sudo apt install ros-dashing-rmw-connext-cpp -y
+sudo apt install ros-dashing-rmw-connext-cpp -y #need to type yes otherwise it stuck
 sudo apt install ros-dashing-ros1-bridge -y
 sudo apt install python3-colcon-common-extensions -y
